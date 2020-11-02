@@ -24,3 +24,4 @@ We obtainedthe following results:
 Bias could be in favor or against the product. What we can observe from the non-members reviews are giving the products 5 stars in just over 50% of the cases while the members in only 40%. This could be explained by the fact that members are more rigorouse when evaluating a product, so it should come as no surprise that the extremes, 1 and 5 stars, should have a lower percentage of appearance in the Vine member reviews than in the non-members.
 The following histogram of the stars assigned by members and non-members supports the idea of giving out extreme stars more easily by the non-members.
 ![](images/feq.png)
+Finally, from this dataset, there is no conclusive evidence to suggest that there is bias by the Vine members.
